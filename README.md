@@ -1,4 +1,4 @@
-MPI is required to run this program, but satellites.txt alreaedy contains the output from a sample run.
+MPI is required to run this program, but sats.txt already contains the output from a sample run.
 
 The purpose of this project is to simulate satellites flying around the earth and colliding with each other. When the simulated satellites collide, they split into two pieces with a slightly adjusted angle, perigee, and apogee. We used a minimum perigee distance of 180 km and a maximum apogee distance of 2000 km to simulate low Earth orbit.
 
